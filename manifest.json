@@ -1,0 +1,14 @@
+{
+  "name": "Gordinha Confeitaria",
+  "short_name": "Gordinha",
+  "description": "Bolos personalizados, kits de festa e doces da Gordinha Confeitaria, com entrega ou retirada.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f1ec",
+  "theme_color": "#f0f1ec",
+  "icons": [
+    { "src": "assets/logo-gordinha.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/logo-gordinha.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

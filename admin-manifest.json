@@ -1,0 +1,14 @@
+{
+  "name": "Gordinha Confeitaria Painel",
+  "short_name": "Gordinha Painel",
+  "description": "Painel da Gordinha Confeitaria: pedidos, pagamentos, cardápio e relatórios.",
+  "start_url": "./admin.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f1ec",
+  "theme_color": "#f0f1ec",
+  "icons": [
+    { "src": "assets/logo-gordinha.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/logo-gordinha.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
